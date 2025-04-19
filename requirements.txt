@@ -7,4 +7,3 @@ yfinance
 scikit-learn
 keras
 tensorflow
-sqlite3
